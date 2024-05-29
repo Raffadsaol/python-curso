@@ -5,7 +5,7 @@ total = ganhos + vendas
 
 print("O total de ganhos foi de", total,"já a quantidade de sobras foi de", sobras)
 
-if total > 1000:
-    print("Parabéns, ganhou um bônus!")
+if total > 500:
+    print("Parabéns, você ganhou um bônus!")
 else:
-    print("Não ganhou bônus...")
+    print("Você não ganhou um bônus...")
